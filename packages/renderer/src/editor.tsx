@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React from 'react';
 import { useCallback, useEffect } from 'react'
 import useCodeMirror from './use-codemirror'
 import './editor.css'
