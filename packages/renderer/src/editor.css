@@ -1,3 +1,7 @@
 .editor-wrapper {
 	height: 100%;
+	flex: 0 0 50%;
+	box-sizing: border-box;
+	overflow: auto;
+	color: #abb2bf;
 }
