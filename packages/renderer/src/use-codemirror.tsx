@@ -8,7 +8,7 @@ import { bracketMatching } from '@codemirror/matchbrackets'
 import { lineNumbers, highlightActiveLineGutter } from '@codemirror/gutter'
 import { defaultHighlightStyle } from '@codemirror/highlight'
 import { javascript } from '@codemirror/lang-javascript'
-import type React from 'react'
+import * as React from 'react'
 
 interface Props {
 	initialDoc: string,
